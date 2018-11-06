@@ -1,0 +1,9 @@
+Load bearing anchor - plate in transport state (rotated 90°):
+Load bearing anchor
+Load bearing anchor:
+Load bearing anchor:
+Load bearing anchor                      2   x  SP - FA - 1 -   225 - 160 
+Torsion anchor                               2   x  SP - FA - 1 -   225 - 160 
+Pins                                                22 x  SPA  -  A  - 04 -  250
+Load bearing anchor
+Pins
