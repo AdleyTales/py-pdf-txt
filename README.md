@@ -15,5 +15,3 @@
 3. 安装项目依赖： pip install -r requirements.txt
 4. python3 main.py 【解释：运行程序】
 
-
-Tip: 就可以了，控制台会报警告提示，不用管
